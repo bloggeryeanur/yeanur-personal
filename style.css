@@ -1,3 +1,30 @@
-#h{
-    background-color: yellow;
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.orange-color{
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.hire-btn{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700px;
 }
